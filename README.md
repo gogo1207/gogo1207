@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gogo1207" target="blank"><img src="https://img.shields.io/twitter/follow/gogo1207?logo=twitter&style=for-the-badge" alt="gogo1207" /></a> </p>
 
-- 🔭 I’m currently working on **Micro Web Panel for LAMP**
+- 🔭 I’m currently working on **Micro Web Panel** for **LAMP**
 
 - 🌱 I’m currently learning **CentOS 8 security**
 
