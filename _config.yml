@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Goran Margetić
-description: Software developer. Reverse engineering, decoding, decrypting, deobfuscating. 
-logo: https://www.goranmargetic.com/storage/assets/img/profile.jpg
-show_downloads: true
+title: [Goran Margetić]
+description: [Software developer. Reverse engineering, decoding, decrypting, deobfuscating.]
+logo: [https://www.goranmargetic.com/storage/assets/img/profile.jpg]
+show_downloads: [true]
 #google_analytics:
