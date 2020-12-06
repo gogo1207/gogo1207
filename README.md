@@ -67,7 +67,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gogo1207&show_icons=true&theme=dark&locale=en&layout=compact" alt="gogo1207" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gogo1207&show_icons=true&theme=dark&locale=en" alt="gogo1207" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gogo1207&theme=dark" alt="gogo1207" /></p>
+-->
 
