@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CentOS 8 security**
 
-- 👨‍💻 All of my projects are available at [https://www.goranmargetic.com](https://www.goranmargetic.com)
+- 👨‍💻 Some of my projects are available at [https://www.goranmargetic.com](https://www.goranmargetic.com)
 
 - 📝 I regulary write articles on [https://www.goranmargetic.com/blog](https://www.goranmargetic.com/blog)
 
