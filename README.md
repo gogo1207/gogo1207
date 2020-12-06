@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.goranmargetic.com/skills](https://www.goranmargetic.com/skills)
 
-- 🐛 Bug **Its not a bug its an undocumented feature!**
+- 🐛 **Its not a bug its an undocumented feature!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
