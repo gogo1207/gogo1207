@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Micro Web Panel** for **LAMP**
 
-- 🌱 I’m currently learning **CentOS 8 security**
+- 🌱 I’m currently learning **~~CentOS 8~~ Rocky 8 security**
 
 - 👨‍💻 Some of my projects are available at [https://www.goranmargetic.com](https://www.goranmargetic.com)
 
