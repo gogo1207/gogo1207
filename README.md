@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Goran Margetić</h1>
-<h3 align="center">Backend developer from Croatia.</h3>
+<h3 align="center">Full-stack Web and Software developer from Croatia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gogo1207&label=Profile%20views&color=0e75b6&style=flat" alt="gogo1207" /> </p>
 
