@@ -7,7 +7,7 @@
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=3293ff9900a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-<p align="left"> <a href="https://twitter.com/gogo1207" target="blank"><img src="https://img.shields.io/twitter/follow/gogo1207?logo=twitter&style=for-the-badge" alt="gogo1207" /></a> </p>
+<p align="left"> <a href="https://twitter.com/de4dcode" target="blank"><img src="https://img.shields.io/twitter/follow/de4dcode?logo=twitter&style=for-the-badge" alt="de4dcode" /></a> </p>
 
 - 🔭 I’m currently working on **Micro Web Panel** for **LAMP**
 
